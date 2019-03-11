@@ -137,8 +137,8 @@ h3, h2 {
 /* portfolio page */
 
 .work {
-  position: relative;
-  float: left;
+  position: center;
+  float: 0 auto;
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
